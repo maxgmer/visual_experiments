@@ -7,5 +7,5 @@ I use Processing 3 library to get rid of mandatory Java code and make it more re
 To run my visualisations: 
 1. Download the repository.
 2. Open any directory (each contains a different visualisation project).
-3. Open a folder for your operating system and run the root file there.
+3. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows).
 4. Enjoy! :)
