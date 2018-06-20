@@ -6,10 +6,9 @@ I use Processing 3 library to get rid of mandatory Java code and make it more re
 
 To run my visualisations: 
 1. Download the repository.
-2. Open any directory (each contains a different visualisation project).
-3. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows).
- 
-Enjoy! :)
+2. Download and install Java.
+3. Open any directory (each contains a different visualisation project).
+4. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows).
 
 # Эксперименты визуализации
 
@@ -20,7 +19,8 @@ Enjoy! :)
 
 Как запустить визуализацию:
 1. Скачать репозиторий (зеленая кнопка Clone or download -> Download zip).
-2. Открыть любую папку.
-3. Открыть папку, соответствующую вашей операционной системе и запустить корневой файл (например, Visualisation.exe для windows).
+2. Скачать и установить Java.
+3. Открыть любую папку.
+4. Открыть папку, соответствующую вашей операционной системе и запустить корневой файл (например, Visualisation.exe для windows).
 
-Как красиво перевести Enjoy! на русский? аааа 
+Enjoy!
