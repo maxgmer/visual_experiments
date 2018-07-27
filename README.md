@@ -8,7 +8,7 @@ To run my visualisations:
 1. Download the repository.
 2. Download and install Java.
 3. Open any directory (each contains a different visualisation project).
-4. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows).
+4. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows). In Linux you should run the file via terminal (e.g. enter "sh ./Visualisation" in terminal in Linux Mint)
 
 # Эксперименты визуализации
 
@@ -21,6 +21,6 @@ To run my visualisations:
 1. Скачать репозиторий (зеленая кнопка Clone or download -> Download zip).
 2. Скачать и установить Java.
 3. Открыть любую папку.
-4. Открыть папку, соответствующую вашей операционной системе и запустить корневой файл (например, Visualisation.exe для windows).
+4. Открыть папку, соответствующую вашей операционной системе и запустить корневой файл (например, Visualisation.exe для windows). В случае с Linux запускать этот файл через терминал (например, введите "sh ./Visualisation" в терминал в Linux Mint).
 
 Enjoy!
