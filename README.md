@@ -1,7 +1,7 @@
-1. Visualisation one. 
-   Only circles used!
-2. Visualisation two.
-   Only squares and triangles are used!
+Visualisation name | Shapes used to draw
+------------ | -------------
+Visualisation one | Circles
+Visualisation two | Squares, triangles
 
 # Visualisation experiments
 My experiments with drawing interesting things using only code and primitives!
