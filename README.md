@@ -1,3 +1,5 @@
+Visualisation one: only circles used.
+
 # Visualisation experiments
 My experiments with drawing interesting things using only code and primitives!
 
