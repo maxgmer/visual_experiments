@@ -1,8 +1,3 @@
-Visualisation name | Shapes used to draw
------------- | -------------
-Visualisation one | Circles
-Visualisation two | Squares, triangles
-
 # Visualisation experiments
 My experiments with drawing interesting things using only code and primitives!
 
@@ -14,6 +9,11 @@ To run my visualisations:
 2. Download and install Java.
 3. Open any directory (each contains a different visualisation project).
 4. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows). In Linux you should run the file via terminal (e.g. enter "sh ./Visualisation" in terminal in Linux Mint)
+
+Visualisation name | Shapes used to draw
+------------ | -------------
+Visualisation one | Circles
+Visualisation two | Squares, triangles
 
 # Эксперименты визуализации
 
