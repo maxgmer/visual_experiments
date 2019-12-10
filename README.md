@@ -10,7 +10,7 @@ To run my visualisations:
 3. Open any directory (each contains a different visualisation project).
 4. Open a folder for your operating system and run the root file there (e.g. Visualisation.exe for windows). In Linux you should run the file via terminal (e.g. enter "sh ./Visualisation" in terminal in Linux Mint)
 
-Visualisation name | Shapes used to draw
+Visualisation name | Geometric figures used in drawing
 ------------ | -------------
 Visualisation one | Circles
 Visualisation two | Squares, triangles
@@ -29,3 +29,8 @@ Visualisation two | Squares, triangles
 4. Открыть папку, соответствующую вашей операционной системе и запустить корневой файл (например, Visualisation.exe для windows). В случае с Linux запускать этот файл через терминал (например, введите "sh ./Visualisation" в терминал в Linux Mint).
 
 Enjoy!
+
+Название визуализации | Используемые в рисовании геометрические фигуры
+------------ | -------------
+Visualisation one | Круги
+Visualisation two | Квадраты, треугольники
