@@ -23,7 +23,7 @@ float rBlue = 255;
 float tRed = 0;
 float tGreen = 255;
 float tBlue = 0;
-
+// 0.8 angle, 2500 size divider, 1.5 dims limit.
 float angleModifier = 4f;
 float sizeDivider = -1500;
 float dimsLimitFactor = 1.5f;
@@ -77,6 +77,10 @@ public void drawMessage() {
   text("Mouse scroll towards you: sizeDivider += 100", 20, 160);
   text("Mouse scroll away from you: sizeDivider -= 100", 20, 180);
   textSize(18);
+  text("Round duration: " + dimsLimitFactor, 20, 220); 
+  textSize(14);
+  text("Up arrow - make round longer", 20, 250);
+  text("Down arrow - make round shorter", 20, 270);
   noFill();
 }
 
@@ -102,6 +106,14 @@ public void mouseWheel(MouseEvent event) {
   background(0);
   float scrolls = event.getCount();
   sizeDivider += scrolls * 100;
+}
+
+public void keyPressed() {
+  if (keyCode == UP) {
+    dimsLimitFactor += 0.05f;
+  } else if (keyCode == DOWN) {
+    dimsLimitFactor -= 0.05f;
+  } 
 }
   public void settings() {  fullScreen(); }
   static public void main(String[] passedArgs) {
