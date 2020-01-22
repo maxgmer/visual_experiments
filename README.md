@@ -13,7 +13,7 @@ To run my visualisations:
 Visualisation name | Geometric figures used in drawing
 ------------ | -------------
 Visualisation one | Circles
-Visualisation two | Squares, triangles
+Visualisation two (not yet finished) | Squares, triangles
 
 # Эксперименты визуализации
 
