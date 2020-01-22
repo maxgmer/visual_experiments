@@ -31,4 +31,4 @@ Visualisation two | Squares, triangles
 Название визуализации | Используемые в рисовании геометрические фигуры
 ------------ | -------------
 Visualisation one | Круги
-Visualisation two | Квадраты, треугольники
+Visualisation two (еще не завершена) | Квадраты, треугольники
