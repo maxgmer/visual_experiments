@@ -93,6 +93,7 @@ void mouseWheel(MouseEvent event) {
 }
 
 void keyPressed() {
+  background(0);
   if (keyCode == UP) {
     dimsLimitFactor += 0.05f;
   } else if (keyCode == DOWN) {
